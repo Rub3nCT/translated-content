@@ -1,7 +1,7 @@
 ---
 title: Svelte 할 일 목록 앱 시작
-slug: Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning
-original_slug: Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_Todo_list_beginning
+slug: conflicting/Learn_web_development/Core/Frameworks_libraries
+original_slug: Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning
 l10n:
   sourceCommit: 4a5ceb89ac004d087669aeee3c26475c2207787f
 ---
